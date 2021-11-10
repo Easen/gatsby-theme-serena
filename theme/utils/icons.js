@@ -12,8 +12,8 @@ import {
   FaBehance,
   FaDribbble,
   Fa500Px,
-  FaFlickr
-} from "react-icons/fa";
+  FaFlickr,
+} from "react-icons/fa"
 
 const icons = {
   facebook: FaFacebookF,
@@ -21,15 +21,15 @@ const icons = {
   instagram: FaInstagram,
   youtube: FaYoutube,
   linkedin: FaLinkedinIn,
-  github: FaPinterestP,
-  gitlab: FaGithub,
-  pinterest: FaGitlab,
+  github: FaGithub,
+  gitlab: FaGitlab,
+  pinterest: FaPinterestP,
   tumblr: FaTumblr,
   deviantart: FaDeviantart,
   behance: FaBehance,
   dribbble: FaDribbble,
   flickr: FaFlickr,
-  "500px": Fa500Px
-};
+  "500px": Fa500Px,
+}
 
-export default icons;
+export default icons
